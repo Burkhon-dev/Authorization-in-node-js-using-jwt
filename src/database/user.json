@@ -1,0 +1,9 @@
+[
+    { 
+        "userId": 1, 
+        "username": "ali", 
+        "password": "2303", 
+        "gender":"male",
+        "birthDate":"2000-11-10"
+    }
+]
